@@ -8,8 +8,8 @@ unicamente 3 grupos distintos "Accesorios", "Quimicos" y "Bajo el auto", en acce
 no esencial como tapetes, aromatizantes, electronicos, en quimicos contamos con el tipo de producto que en su mayoria es 
 para limpiar tu vehiculo como ceras, pinturas, protectores y en baj el auto partes especificas para tu vehiculo como
 amortiguadores, sistemas de clutch, etc. Contamos con unidades vendidas por grupo en periodos de tiempo como año fiscal, 
-periodo (4 semanas) y semana, contamos con la variable del "precio" y para la compañía es importante saber si sus precios son los adecuados por lo tanto tienen
-un registro cada que un cliente pregunta por un producto llamado "Busqueda" y un registro cada que se cierra la venta 
-"Transaccion", contamos con un indicador en porcentaje llamado "venta cerrada" con estas dos variables Transaccion/Busqueda
-para poder ver cual es el porcentaje de ventas cerradas, si este porcentaje baja la compañía nota que para el cliente
-el producto puede llegar a ser caro.
+periodo (4 semanas) y semana, contamos con la variable del "precio" y para la compañía es importante saber si sus precios son 
+los adecuados por lo tanto tienen un registro cada que un cliente pregunta por un producto llamado "Busqueda" y un registro 
+cada que se cierra la venta "Transaccion", contamos con un indicador en porcentaje llamado "venta cerrada" con estas dos 
+variables Transaccion/Busqueda para poder ver cual es el porcentaje de ventas cerradas, si este porcentaje baja la compañía 
+nota que para el cliente el producto puede llegar a ser caro.
